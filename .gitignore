@@ -1,0 +1,41 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+*.log
+
+# ---- Environments ----
+.venv/
+venv/
+env/
+ENV/
+conda/
+*.conda
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+.jupyter/
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- VS Code ----
+.vscode/
+
+# ---- Data (optional) ----
+# If your CSVs are large, uncomment these lines
+# data/raw/*.csv
+# data/processed/
+# reports/*.pdf
+
+# ---- Secrets ----
+.env
+.env.*
