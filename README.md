@@ -209,7 +209,7 @@ Clone, run queries on TheLook dataset (or adapt to your own ecommerce data), and
 👉 [View Executive Revenue Dashboard](https://public.tableau.com/app/profile/balaji.ajay.kumar.madana4033/viz/Project1_1_17688543645130/ExecutiveRevenue)
 
 📸 **Preview:**  
-![Executive Revenue Dashboard](dashboards/Executive Revenue.jpeg)
-<img width="1189" height="804" alt="image" src="https://github.com/user-attachments/assets/7f766ae5-0b6e-43a7-b4c1-4606dfc37960" />
+<img width="1189" height="806" alt="image" src="https://github.com/user-attachments/assets/e9edca50-df5d-4b1d-be38-e1a7abdeed95" />
+
 
 
