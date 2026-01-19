@@ -210,4 +210,6 @@ Clone, run queries on TheLook dataset (or adapt to your own ecommerce data), and
 
 📸 **Preview:**  
 ![Executive Revenue Dashboard](dashboards/Executive Revenue.jpeg)
+<img width="1189" height="804" alt="image" src="https://github.com/user-attachments/assets/7f766ae5-0b6e-43a7-b4c1-4606dfc37960" />
+
 
