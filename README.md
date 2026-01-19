@@ -191,5 +191,23 @@ Clone, run queries on TheLook dataset (or adapt to your own ecommerce data), and
 
 ---
 
+## 📊 Executive Dashboards
 
+### Executive Revenue Overview
+**Purpose:** High-level view for leadership to track revenue health, leakage, and growth signals.
+
+**Key questions answered:**
+- How fast is the business Monthly Revenue Trend & MoM Growth
+?
+- Where is revenue leaking?
+- Which KPIs require immediate action?
+- Where is the money coming from?
+- Top 5 Categories by Revenue
+
+
+🔗 **Live Dashboard (Tableau Public):**  
+👉 [View Executive Revenue Dashboard](https://public.tableau.com/app/profile/balaji.ajay.kumar.madana4033/viz/Project1_1_17688543645130/ExecutiveRevenue)
+
+📸 **Preview:**  
+![Executive Revenue Dashboard](dashboards/Executive Revenue.jpeg)
 
