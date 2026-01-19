@@ -1,4 +1,4 @@
-# 🚀 TheLook E-Commerce: From Raw Data to a $23.1M Growth Playbook
+# 🚀 From Clicks to Cash: From Raw Data to a $23.1M Growth Playbook
 
 **One-line hook:**  
 End-to-end ecommerce analytics case study turning 125K+ orders into a quantified **$23.1M revenue opportunity**, built like a real consulting engagement — not a classroom exercise. :contentReference[oaicite:0]{index=0}
